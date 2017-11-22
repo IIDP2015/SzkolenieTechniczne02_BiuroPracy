@@ -22,6 +22,15 @@ namespace BiuroPracy.Controls {
         protected global::System.Web.UI.WebControls.TextBox txtEmail;
         
         /// <summary>
+        /// tfvEmail control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator tfvEmail;
+        
+        /// <summary>
         /// txtPassword control.
         /// </summary>
         /// <remarks>
@@ -29,6 +38,15 @@ namespace BiuroPracy.Controls {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtPassword;
+        
+        /// <summary>
+        /// tfvPassword control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator tfvPassword;
         
         /// <summary>
         /// txtName control.
@@ -40,6 +58,15 @@ namespace BiuroPracy.Controls {
         protected global::System.Web.UI.WebControls.TextBox txtName;
         
         /// <summary>
+        /// tfvName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator tfvName;
+        
+        /// <summary>
         /// txtSureName control.
         /// </summary>
         /// <remarks>
@@ -47,6 +74,15 @@ namespace BiuroPracy.Controls {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtSureName;
+        
+        /// <summary>
+        /// tfvSureName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator tfvSureName;
         
         /// <summary>
         /// calendarDateOfBirth control.
@@ -67,6 +103,15 @@ namespace BiuroPracy.Controls {
         protected global::System.Web.UI.WebControls.DropDownList ddlProffesion;
         
         /// <summary>
+        /// tfvProffesion control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator tfvProffesion;
+        
+        /// <summary>
         /// ddlContractOfEmployment control.
         /// </summary>
         /// <remarks>
@@ -74,5 +119,14 @@ namespace BiuroPracy.Controls {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlContractOfEmployment;
+        
+        /// <summary>
+        /// tfvContractOfEmployment control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator tfvContractOfEmployment;
     }
 }
